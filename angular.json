@@ -14,11 +14,6 @@
           "options": {
             "tsConfig": "projects/angular-formio/tsconfig.lib.json",
             "project": "projects/angular-formio/ng-package.json"
-          },
-          "configurations": {
-            "production": {
-              "tsConfig": "projects/angular-formio/tsconfig.lib.prod.json"
-            }
           }
         },
         "test": {
