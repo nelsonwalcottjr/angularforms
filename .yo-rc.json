@@ -1,5 +1,5 @@
 {
-  "generator-angular2-library": {
+  "generator-angular2": {
     "promptValues": {
       "gitRepositoryUrl": "https://github.com/nelsonwalcottjr/angular-formio"
     }
