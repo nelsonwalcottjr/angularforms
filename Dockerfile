@@ -8,9 +8,6 @@ RUN sudo apt-get -y update && sudo apt-get -y install pdftk && sudo apt-get -y i
 # Create app directory
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
-
-# Install app dependencies
-COPY package.json /usr/src/app/
 RUN npm install
 
 EXPOSE 8000
