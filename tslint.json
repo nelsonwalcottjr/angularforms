@@ -12,7 +12,7 @@
     "arrow-return-shorthand": true,
     "curly": true,
     "deprecation": {
-      "severity": "warning"
+      "severity": "notice"
     },
     "eofline": true,
     "import-blacklist": [
